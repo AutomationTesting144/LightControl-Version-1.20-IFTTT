@@ -84,7 +84,7 @@ public class LightAddition extends Activity {
         driver.findElement(By.xpath("//android.widget.ImageButton[@bounds='[1048,1672][1160,1784]']")).click();
         //Opening Add Lights Page and clicking on SEARCH button
         driver.findElement(By.id("com.philips.lighting.hue2:id/start_search_button")).click();
-        TimeUnit.SECONDS.sleep(60);
+        TimeUnit.SECONDS.sleep(70);
 
         dropListHueNew = driver.findElements(By.id("com.philips.lighting.hue2:id/list_item_title"));
 

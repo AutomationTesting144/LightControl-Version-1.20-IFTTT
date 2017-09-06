@@ -189,8 +189,6 @@ public class LightsNameChange extends Activity {
 
 
     }
-
-
 }
 
 

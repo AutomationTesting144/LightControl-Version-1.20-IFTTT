@@ -35,7 +35,7 @@ import io.appium.java_client.android.AndroidDriver;
 public class Group_AddLight {
     public String IPAddress = "192.168.86.23/api";
     public String HueUserName = "yVqFoICUnIFDpxpGUCmXnHtAnv2sd1DJJ5LLHcGo";
-    public String HueBridgeParameterType = "lights/37";
+    public String HueBridgeParameterType = "lights/6";
     public String StrMin;
     public String StrHrs;
     public String TimeSys1;

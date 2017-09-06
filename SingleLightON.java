@@ -33,7 +33,7 @@ import io.appium.java_client.android.AndroidDriver;
 public class SingleLightON {
     public String IPAddress = "192.168.86.23/api";
     public String HueUserName = "yVqFoICUnIFDpxpGUCmXnHtAnv2sd1DJJ5LLHcGo";
-    public String HueBridgeParameterType = "lights/13";
+    public String HueBridgeParameterType = "lights/37";
     public String finalURL;
     public String lightStatusReturned;
     public String StrMin;
